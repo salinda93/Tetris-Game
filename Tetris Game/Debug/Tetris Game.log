@@ -1,0 +1,10 @@
+﻿  Tetris Game.cpp
+D:\Visual Studio 2019 workspace\Tetris Game\Tetris Game\Tetris Game.cpp(38,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Visual Studio 2019 workspace\Tetris Game\Tetris Game\Tetris Game.cpp(50,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Visual Studio 2019 workspace\Tetris Game\Tetris Game\Tetris Game.cpp(72,65): warning C4305: '=': truncation from 'double' to 'float'
+D:\Visual Studio 2019 workspace\Tetris Game\Tetris Game\Tetris Game.cpp(126,40): warning C4305: '=': truncation from 'double' to 'float'
+D:\Visual Studio 2019 workspace\Tetris Game\Tetris Game\Tetris Game.cpp(137,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Tetris Game\Tetris Game\Tetris Game.cpp(137,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Tetris Game\Tetris Game\Tetris Game.cpp(145,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Tetris Game\Tetris Game\Tetris Game.cpp(145,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tetris Game.vcxproj -> D:\Visual Studio 2019 workspace\Tetris Game\Debug\Tetris Game.exe
